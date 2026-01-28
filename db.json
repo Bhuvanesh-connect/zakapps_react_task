@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "title": "Shoes",
+      "price": "2000",
+      "imageUrl": "https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/primary/ProductShowcasesampleimages/JPEG/Product+Showcase-1.jpg",
+      "category": "fashion",
+      "description": "2 year warranty and supreme comfort",
+      "id": "3ca3"
+    },
+    {
+      "title": "Mobile Redmi",
+      "price": "15000",
+      "imageUrl": "https://www.bencomobile.com/UserFiles/denco/image/20221129/20221129112417_4605.jpg",
+      "category": "electronics",
+      "description": "Best Features with 1 year Warranty",
+      "id": "da5f"
+    },
+    {
+      "title": "Washing Machine ",
+      "price": 100000,
+      "imageUrl": "https://www.sathya.store/img/product/nxjziQPmnp7FlSsP.png",
+      "category": "electronics",
+      "description": "Best and top Seller product of the year",
+      "id": "702d"
+    },
+    {
+      "title": "Flat TV",
+      "price": 100,
+      "imageUrl": "https://cdn11.bigcommerce.com/s-grgwsg2upf/images/stencil/500x659/products/217/701/32inchSmartWoVR(AKLT32S-FL1Y9P)__15294.1744690660.jpg?c=1",
+      "category": "electronics",
+      "description": "OLED TV with great features",
+      "id": "5c32"
+    },
+    {
+      "title": "Dishwasher LG",
+      "price": "50000",
+      "imageUrl": "https://decure.in/cdn/shop/files/sie_dish_sn25hi00mi_f1b94428-8415-4a91-8055-a43abcecee8e.jpg?v=1735554456",
+      "category": "electronics",
+      "description": "Best Dishwasher in the current Market",
+      "id": "b1ea"
+    },
+    {
+      "title": "Men - Winter Sweater Wear",
+      "price": "1000",
+      "imageUrl": "https://m.media-amazon.com/images/I/71RztD3p4yL._AC_UY1100_.jpg",
+      "category": "men",
+      "description": "High Quality Fabric Sweater",
+      "id": "3e35"
+    },
+    {
+      "title": "Office Chair",
+      "price": "100000",
+      "imageUrl": "https://ii1.pepperfry.com/media/catalog/product/k/i/494x544/kimura-mid-back-ergonomic-chair-with-tilt-lock-mechanism-in-grey-colour-kimura-mid-back-ergonomic-ch-vtdnqi.jpg",
+      "category": "furniture",
+      "description": "Modern Furniture for Modern Offices",
+      "id": "718f"
+    },
+    {
+      "title": "Charger",
+      "price": 500,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2024/1/380104698/AX/FI/WJ/18711236/1-1.jpg",
+      "category": "electronics",
+      "description": "Charger with 33 W power charge feature",
+      "id": "0b19"
+    },
+    {
+      "id": "976b",
+      "title": "Ear Phones",
+      "price": 3000,
+      "imageUrl": "https://www.boat-lifestyle.com/cdn/shop/files/Artboard1_0684daf7-e7d9-4224-9724-07271a45c73a.png?v=1698315950",
+      "category": "electronics",
+      "description": "test testtesttesttesttesttest"
+    },
+    {
+      "title": "Fresh Fashion - Woman Wear",
+      "price": 5656,
+      "imageUrl": "https://m.media-amazon.com/images/I/71cULpOLyRL._AC_UY1100_.jpg",
+      "category": "women",
+      "description": "Latest Version of Western Collection",
+      "id": "5c16"
+    },
+    {
+      "title": "Men's Shirt - Peter England",
+      "price": "5000",
+      "imageUrl": "https://m.media-amazon.com/images/I/619XV8pAVeL._AC_UY1000_.jpg",
+      "category": "fashion",
+      "description": "Latest Model",
+      "id": "cc10"
+    },
+    {
+      "title": "Double Door Fridge - LG",
+      "price": "100000",
+      "imageUrl": "https://www.cnet.com/a/img/resize/2d2e0487bdd32b0892ba5538b1b1219ba72f5be0/hub/2016/10/27/a11c03cc-bc86-427c-b200-fa5c9f4e2f20/lginstaviewproductphotos-8.jpg?auto=webp&width=1200",
+      "category": "electronics",
+      "description": "Latest Model Fridge with High Efficient Cooling",
+      "id": "83a6"
+    },
+    {
+      "title": "Wall Clock - Ajanta",
+      "price": "800",
+      "imageUrl": "https://www.ecraftindia.com/cdn/shop/files/KWC597_main_hd.jpg?v=1744008262",
+      "category": "electronics",
+      "description": "Wall Clock that looks aesthetic",
+      "id": "431b"
+    },
+    {
+      "title": "Digital Camera - Latest",
+      "price": "100000",
+      "imageUrl": "https://media.istockphoto.com/id/96826250/photo/digital-camera-with-clipping-path.jpg?s=612x612&w=0&k=20&c=ceAF827zi_UfczajJAWkXowWxdu5tfisZHRoCiSq94w=",
+      "category": "electronics",
+      "description": "Best Camera and Picture Quality",
+      "id": "b3fa"
+    },
+    {
+      "id": "4eee",
+      "title": "Camera Canon",
+      "price": "200000",
+      "image": "",
+      "category": "electronics",
+      "description": "Best Camera of its generations",
+      "imageUrl": "https://www.ephotozine.com/articles/canon-powershot-a2300-digital-camera-review-19594/images/highres-canon_powershot_a2300_front_1341993524.jpg"
+    }
+  ]
+}

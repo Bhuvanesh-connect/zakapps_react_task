@@ -1,0 +1,59 @@
+.adminPage{
+    padding: 20px 40px;
+    border: 1px solid #d9d9d9;
+
+    & .contentRow{
+        display: flex;
+        justify-content: center;
+
+        & .formCard{
+            box-shadow: 1px 1px 4px #adb5bd !important;
+            border: 1px solid #d9d9d9 !important;
+
+            & .header{
+                background-color: #f8f9fa ;
+                padding: 20px;
+            }
+
+            & .productForm{
+                padding: 20px;
+
+                & .formGroup{
+                    margin-bottom: 15px;
+
+                    & label{
+                        font-weight: 500;
+                    }
+
+                    & input,select, textarea{
+                        background-color: #f8f9fa !important;
+                    }
+
+                    & .priceInput::-webkit-inner-spin-button, .priceInput::-webkit-outer-spin-button {
+                        -webkit-appearance: none;
+                        margin: 0;
+                    }
+                }
+
+                & .btnRow{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    border-top: 1px solid #d9d9d9;
+                    padding: 20px 20px 0 20px;
+
+                    & .saveBtn{
+                        background-color: rgb(36, 163, 5);
+                        border: 0;
+                        border-radius: 4px;
+                        padding: 8px 30px;
+
+                        &:hover{
+                            opacity: 0.8;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
